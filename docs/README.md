@@ -26,7 +26,7 @@ docs/
 | Concept | Authoritative Definition |
 |---------|------------------------|
 | QualityModel | [scope.md § Quality Model](scope.md#quality-model-what-good-metadata-means) |
-| ScannedModule | [apcore-toolkit docs](https://github.com/aipartnerup/apcore-toolkit) |
-| .binding.yaml | [apcore-toolkit: Output Writers](https://github.com/aipartnerup/apcore-toolkit/blob/main/docs/features/output-writers.md) |
-| MCP Tool Definition | [apcore-mcp](https://github.com/aipartnerup/apcore-mcp-python) |
-| A2A AgentSkill | [apcore-a2a](https://github.com/aipartnerup/apcore-a2a-python) |
+| ScannedModule | [apcore-toolkit docs](https://github.com/aiperceivable/apcore-toolkit) |
+| .binding.yaml | [apcore-toolkit: Output Writers](https://github.com/aiperceivable/apcore-toolkit/blob/main/docs/features/output-writers.md) |
+| MCP Tool Definition | [apcore-mcp](https://github.com/aiperceivable/apcore-mcp-python) |
+| A2A AgentSkill | [apcore-a2a](https://github.com/aiperceivable/apcore-a2a-python) |

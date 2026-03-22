@@ -1,7 +1,7 @@
 site_name: apcore-refinery
 site_description: Score and refine apcore module metadata for MCP, A2A, and CLI consumption.
-repo_url: https://github.com/aipartnerup/apcore-refinery
-repo_name: aipartnerup/apcore-refinery
+repo_url: https://github.com/aiperceivable/apcore-refinery
+repo_name: aiperceivable/apcore-refinery
 
 theme:
   name: material

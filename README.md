@@ -1,6 +1,6 @@
 # apcore-refinery
 
-> Part of the [apcore](https://github.com/aipartnerup/apcore) ecosystem
+> Part of the [apcore](https://github.com/aiperceivable/apcore) ecosystem
 
 Metadata quality assessment and refinement skill for Claude Code. Helps `*-apcore` project developers (flask-apcore, django-apcore, nestjs-apcore) improve their module metadata for MCP, A2A, and CLI consumption.
 
